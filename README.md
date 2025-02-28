@@ -37,4 +37,5 @@ Additionally, acknowledgment is given to the [facebookresearch/DiT repository](h
 - Peebles, W., & Xie, S. (2022). ["Scalable Diffusion Models with Transformers"](https://arxiv.org/abs/2212.09748)
 - [Flux.jl](https://fluxml.ai/Flux.jl/stable/)
 - [facebookresearch/DiT GitHub Repository](https://github.com/facebookresearch/DiT/tree/main?tab=readme-ov-file)
+
 For further information and resources, please refer to the above references.
