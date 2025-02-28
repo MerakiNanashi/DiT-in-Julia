@@ -23,9 +23,6 @@ Pkg.add("Flux")
 # Usage
 Detailed usage instructions and examples are available in the examples directory. These examples demonstrate how to train and evaluate the DiT model on various datasets.
 
-# License
-MIT License. See [License]().
-
 # Acknowledgments
 This implementation draws inspiration from the original work on Diffusion Transformers by William Peebles and Saining Xie. Their research paper, ["Scalable Diffusion Models with Transformers"](https://arxiv.org/abs/2212.09748) provides the foundational concepts and methodologies upon which this project is built.
 
@@ -39,3 +36,6 @@ Additionally, acknowledgment is given to the [facebookresearch/DiT repository](h
 - [facebookresearch/DiT GitHub Repository](https://github.com/facebookresearch/DiT/tree/main?tab=readme-ov-file)
 
 For further information and resources, please refer to the above references.
+
+# License
+MIT License. See [License]().
